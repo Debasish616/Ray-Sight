@@ -1,0 +1,9 @@
+streamlit==1.22.0
+pyttsx3
+opencv-python-headless
+sounddevice
+face_recognition
+pytesseract
+gtts
+webcolors
+cmake
